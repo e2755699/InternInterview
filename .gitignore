@@ -1,0 +1,34 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+/GambitCache/.vs/
+/GambitCache/.vs/GambitCache/v15
+*.vspscc
+/GambitCache/Publish
+/GambitCache/Properties/PublishProfiles
+/GambitCache/GambitCache.csproj.user
+
+/out
+/*/out
+/Dockerfile
+
+# For Rider
+.DS_Store
+.idea
+*.iml
