@@ -1,0 +1,8 @@
+C:\Users\daniel.wu82\Desktop\HarryPotter-intern\TennisGame\bin\Debug\netcoreapp3.1\HarryPotter.deps.json
+C:\Users\daniel.wu82\Desktop\HarryPotter-intern\TennisGame\bin\Debug\netcoreapp3.1\HarryPotter.dll
+C:\Users\daniel.wu82\Desktop\HarryPotter-intern\TennisGame\bin\Debug\netcoreapp3.1\HarryPotter.pdb
+C:\Users\daniel.wu82\Desktop\HarryPotter-intern\TennisGame\obj\Debug\netcoreapp3.1\HarryPotter.AssemblyInfoInputs.cache
+C:\Users\daniel.wu82\Desktop\HarryPotter-intern\TennisGame\obj\Debug\netcoreapp3.1\HarryPotter.AssemblyInfo.cs
+C:\Users\daniel.wu82\Desktop\HarryPotter-intern\TennisGame\obj\Debug\netcoreapp3.1\HarryPotter.csproj.CoreCompileInputs.cache
+C:\Users\daniel.wu82\Desktop\HarryPotter-intern\TennisGame\obj\Debug\netcoreapp3.1\HarryPotter.dll
+C:\Users\daniel.wu82\Desktop\HarryPotter-intern\TennisGame\obj\Debug\netcoreapp3.1\HarryPotter.pdb
