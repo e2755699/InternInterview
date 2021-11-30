@@ -122,6 +122,14 @@ namespace BookStoreTests
 	        var price = bookStore.GetPrice(7, 7);
 	        Assert.AreEqual(1260, price);
             //1400, 1260
+        }     
+        
+        [Test]
+        public void Buy_One_Book_With_Two_Coupon()
+        {
+	        var bookStore = new BookStore.BookStore();
+	        var price = bookStore.GetPrice(1, 2);
+	        Assert.AreEqual(200, price);
         }
     }
 }
