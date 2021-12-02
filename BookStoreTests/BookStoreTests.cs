@@ -64,6 +64,22 @@ namespace BookStoreTests
         }
 
         [Test]
+        public void Buy_Ten_Book()
+        {
+	        var bookStore = new BookStore.BookStore();
+	        var price = bookStore.GetPrice(10);
+	        Assert.AreEqual(1800, price);
+        }
+
+        [Test]
+        public void Buy_Fourteen_Book()
+        {
+	        var bookStore = new BookStore.BookStore();
+	        var price = bookStore.GetPrice(14);
+	        Assert.AreEqual(2520, price);
+        }
+
+        [Test]
         public void Buy_One_Book_With_One_Coupon()
         {
 	        var bookStore = new BookStore.BookStore();
